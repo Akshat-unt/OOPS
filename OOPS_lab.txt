@@ -1,0 +1,77 @@
+ Lab Module OOPS - UCS3004 
+Lab Course Outcomes: 
+At the end of the course, students will be able to: 
+CO1 Apply object-oriented concepts such as encapsulation, inheritance, and polymorphism 
+in Java programming 
+CO2 Demonstrate proficiency in writing Java programs using basic constructs like data 
+types, operators, control structures, and arrays. 
+CO3 Develop robust applications using exception handling, packages, interfaces, 
+multithreading, and file I/O in Java. 
+CO4 Design and build simple real-world projects using Java and apply debugging and 
+testing techniques to ensure program correctness and performance. 
+ 
+S. 
+No. 
+Programs CO 
+No. 
+1 Write a program to Print "Welcome To Java ". 1 
+2 
+WAP to print your address i) using single print ii) using multiple println 
+1 
+3 WAP to print addition of 2 numbers (with Scanner) 1 
+4 Write a program in Java to design simple calculator for (+, -, *, and /) using switch 
+case 
+1 
+5 WAP that reads a number in meters converts it to feet and displays the result. 2 
+6 Write a Java program that prints all real solutions to the quadratic equation 
+ax2+bx+c = 0. Read in a, b, c and use the quadratic formula. If the discriminate 
+b2-4ac is negative, display a message stating that there are no real solutions. 
+2 
+7 Write a java program to find the Fibonacci series using recursive and non 
+recursive functions 
+2 
+8 Write a program in Java for find AXB where A is a matrix of 3X3 and B is a matrix 
+of 3X3. 
+1,2 
+9 Write a program in Java to design accounts class and two functions withdraw () 
+and deposit (). 
+1,2 
+10 Write a program in Java to show the inheritance in java and use of super 
+keyword. 
+1,2 
+11 Write a program in Java to the concept of polymorphism by designing functions 
+to sum different type of numbers 
+1,2 
+12 Write a program to show the concept of method overriding in Java. 1,2 
+13 Write a program in Java that import the user define package and access the 
+Member variable of classes that Contained by Package. 
+1,2 
+14 Write a program in Java to handle the Exception using try and multiple catch 
+block. 
+2 
+15 Write a program in Java to create a thread that Implement the Runnable 
+interface 
+2 
+16 Write a program in java which implement interface Student which has two 
+methods Display_Grade and Attendance for PG_Students and UG_Students 
+(PG_Students and UG_Students are two different classes for Post Graduate and 
+Under Graduate Students respectively). 
+3 
+17 Write a Program to implement simple Thread by extending Thread class and 
+implementing runnable interface 
+2,3 
+18 Write a program to implement following collections a)array List b) Vector  2,3 
+19 Write a program that connects to a database using JDBC display all records in a 
+table 
+4 
+20 Write a program to connect to a database using JDBC and insert values in to it . 4 
+21 Write a java program to connect to a database using JDBC and delete values from 
+table . 
+4 
+22 Write a program that connects to a database using JDBC display all values 4 
+23 Write a program that works as a simple calculator. Use a Grid Layout to arrange 
+Buttons for digits and for the + - * % operations. Add a text field to display the 
+result. 
+4 
+ 
+ 

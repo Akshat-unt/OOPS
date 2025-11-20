@@ -1,0 +1,17 @@
+# Compiled Java files
+*.class
+
+# MySQL Connector JAR (should be downloaded separately)
+mysql-connector-java*.jar
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
